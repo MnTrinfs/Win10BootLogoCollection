@@ -86,5 +86,3 @@ _B. INSTALLATION._
 ## Troubleshooting
 
 _For more examples, please refer to the [Documentation](https://github.com/Metabolix/HackBGRT?tab=readme-ov-file#troubleshooting)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
