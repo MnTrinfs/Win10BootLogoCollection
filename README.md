@@ -51,7 +51,7 @@ _B. INSTALLATION._
 
 1. Clone the repo
   ```sh
-  git clone https://github.com/github_username/repo_name.git
+  git clone https://github.com/MnTrinfs/Win10BootLogoCollection.git
   ```
 2. Choose your favourite logo. Rename it: `splash.bmp` (Remember its size has to be from 200x200px to 300x300px). Then copy & paste it to the HackBGRT folder
 <p align="center">
