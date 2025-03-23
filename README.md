@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I made this collection of custom boot logos specifically for users who want to change their Windows 10 boot logo using [HackBGRT](https://github.com/Metabolix/HackBGRT). To accommodate different preferences and display requirements, the logos are available in two sizes: 200x200 pixels and 300x300 pixels.
+I made this collection of custom boot logos specifically for users who want to change their Windows 10 boot logo using [HackBGRT](https://github.com/Metabolix/HackBGRT). To accommodate different preferences and display requirements, the logos are available in two sizes: 200x200 pixels and 300x300 pixels. I made this for people who don't know how to use Photoshop
 
 
 <!-- GETTING STARTED -->
