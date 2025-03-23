@@ -1,6 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <a>
+    <img src="bg.PNG" alt="bg" width="838" height="370">
+  </a>
+  
   <h3 align="center">Win10BootLogoCollection</h3>
   <p align="center">
     My collection of custom boot logos designed for Windows 10 using HackBGRT
