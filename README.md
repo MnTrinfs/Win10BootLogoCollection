@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="bg.PNG" alt="bg" width="838" height="370">
+    <img src="bg.png" alt="bg" width="838" height="370">
   </a>
   
   <h3 align="center">Win10BootLogoCollection</h3>
