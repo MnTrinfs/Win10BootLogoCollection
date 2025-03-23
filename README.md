@@ -23,7 +23,7 @@ I made this collection of custom boot logos specifically for users who want to c
 
 _A. IMPORTANT NOTES._
 
-1. Your computer BIOS mode **MUST BE** UEFI mode, NOT Legacy mode. 
+1. Your computer's BIOS mode **HAS TO BE** UEFI mode, NOT Legacy mode. 
 You can check by pressing Windows + R keys together to launch the Run box. Type MSInfo32 and hit Enter. System Information window will open. Click on the System Summary item
 <p align="center">
   <a>
