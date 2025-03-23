@@ -67,14 +67,14 @@ _B. INSTALLATION._
   </a>
 </p>
 
-4. Just press I to install. A paint window of the logo will open. Close it, don't do anything else
+4. Simply press I to install. A paint window displaying the logo will open—just close it and don’t take any further action.
 <p align="center">
   <a>
     <img src="https://www.thewindowsclub.com/wp-content/uploads/2018/03/HackBGRT-Splash-BMP.png" width="700" height="586">
   </a>
 </p>
 
-5. Let it install and you're done. Enjoy!
+5. Just let it install, and you're all set. Enjoy!
 <p align="center">
   <a>
     <img src="https://fossbytes.com/wp-content/uploads/2019/09/How-To-Customize-Windows-2.1-HackBGRT.png" width="700" height="400">
