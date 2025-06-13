@@ -64,7 +64,7 @@ _B. INSTALLATION._
 3. Run HackBGRT (setup.exe) as admin. A CMD window will open
 <p align="center">
   <a>
-    <img src=/img/Picture1.jpg>
+    <img src=/img/Picture1.jpg width="700">
     <img src="https://api2.zoomit.ir/media/install-hackbgrt-cmd-657d7fac8412edb5a5b98b09" width="700" height="321">
   </a>
 </p>
