@@ -7,7 +7,7 @@
   
   <h3 align="center">Win10BootLogoCollection</h3>
   <p align="center">
-    My collection of custom boot logos designed for Windows 10 using HackBGRT
+    My collection of custom boot logos designed for Windows 10
   </p>
 </div>
 
