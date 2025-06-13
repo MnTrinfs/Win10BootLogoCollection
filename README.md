@@ -56,7 +56,6 @@ _B. INSTALLATION._
 2. Choose your favourite logo. Rename it: `splash.bmp` (Remember its size has to be from 200x200px to 300x300px). Then copy & paste it to the HackBGRT folder
 <p align="center">
   <a>
-    <img src="https://i0.wp.com/windowsloop.com/wp-content/uploads/2020/05/change-boot-logo-windows-run-as-admin.png?w=1100&ssl=1" width="700" height="540">
     <img src=/img/Picture1.jpg width="700" height="540">
   </a>
 </p>
