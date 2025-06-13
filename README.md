@@ -7,7 +7,7 @@
   
   <h3 align="center">Win10BootLogoCollection</h3>
   <p align="center">
-    My collection of custom boot logos designed for Windows 10 using HackBGRT
+    My collection of custom boot logos designed for Windows 10
   </p>
 </div>
 
@@ -27,21 +27,21 @@ _A. IMPORTANT NOTES._
 You can check by pressing Windows + R keys together to launch the Run box. Type MSInfo32 and hit Enter. System Information window will open. Click on the System Summary item
 <p align="center">
   <a>
-    <img src="https://kb.parallels.com/Attachments/kcs-4383/UEFI.png" width="700" height="376">
+    <img src=/img/Picture2.png>
   </a>
 </p>
 
 2. Secure Boot **HAS TO BE DISABLED**
 <p align="center">
   <a>
-    <img src="https://www.minitool.com/images/uploads/2019/06/secure-boot-1.jpg" width="700" height="295">
+    <img src=/img/Picture3.jpg>
   </a>
 </p>
 
 3. Bitlocker **MUST ALSO BE DISABLED** (https://github.com/Metabolix/HackBGRT/issues/28)  
 <p align="center">
   <a>
-    <img src="https://www.wikihow.com/images/6/6b/Turn-Off-BitLocker-Step-20.jpg" width="700" height="460">
+    <img src=/img/Picture4.jpg>
   </a>
 </p>
 
@@ -56,21 +56,23 @@ _B. INSTALLATION._
 2. Choose your favourite logo. Rename it: `splash.bmp` (Remember its size has to be from 200x200px to 300x300px). Then copy & paste it to the HackBGRT folder
 <p align="center">
   <a>
-    <img src="https://i0.wp.com/windowsloop.com/wp-content/uploads/2020/05/change-boot-logo-windows-run-as-admin.png?w=1100&ssl=1" width="700" height="540">
+    <img src=/img/Picture5.png>
+    <img src=/img/Picture6.png>
   </a>
 </p>
 
 3. Run HackBGRT (setup.exe) as admin. A CMD window will open
 <p align="center">
   <a>
-    <img src="https://api2.zoomit.ir/media/install-hackbgrt-cmd-657d7fac8412edb5a5b98b09" width="700" height="321">
+    <img src=/img/Picture1.jpg width="550">
+    <img src=/img/Picture7.png>
   </a>
 </p>
 
 4. Simply press I to install. A paint window displaying the logo will open—just close it and don’t take any further action.
 <p align="center">
   <a>
-    <img src="https://www.thewindowsclub.com/wp-content/uploads/2018/03/HackBGRT-Splash-BMP.png" width="700" height="586">
+    <img src=/img/Picture8.png>
   </a>
 </p>
 
