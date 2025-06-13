@@ -79,7 +79,6 @@ _B. INSTALLATION._
 5. Just let it install, and you're all set. Enjoy!
 <p align="center">
   <a>
-    <img src=/img/Picture9.png>
     <img src="https://fossbytes.com/wp-content/uploads/2019/09/How-To-Customize-Windows-2.1-HackBGRT.png" width="700" height="400">
   </a>
 </p>
