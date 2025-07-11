@@ -64,7 +64,6 @@ _B. INSTALLATION._
 3. Run HackBGRT (setup.exe) as admin. A CMD window will open
 <p align="center">
   <a>
-    <img src=/img/Picture1.jpg width="550">
     <img src=/img/Picture7.png>
   </a>
 </p>
