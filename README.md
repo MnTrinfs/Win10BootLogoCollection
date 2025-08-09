@@ -64,7 +64,6 @@ _B. INSTALLATION._
 3. Run HackBGRT (setup.exe) as admin. A CMD window will open
 <p align="center">
   <a>
-    <img src=/img/Picture1.jpg width="550">
     <img src=/img/Picture7.png>
   </a>
 </p>
@@ -80,11 +79,6 @@ _B. INSTALLATION._
 <p align="center">
   <a>
     <img src="https://fossbytes.com/wp-content/uploads/2019/09/How-To-Customize-Windows-2.1-HackBGRT.png" width="700" height="400">
-  </a>
-</p>
-<p align="center">
-  <a>
-    <img src="https://trainghiemso.vn/wp-content/uploads/2022/08/Cach-thay-the-logo-khoi-dong-tren-Windows-11b7.webp" width="700" height="444">
   </a>
 </p>
 
