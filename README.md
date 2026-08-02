@@ -86,3 +86,22 @@ _B. INSTALLATION._
 ## Troubleshooting
 
 _For more examples, please refer to the [Documentation](https://github.com/Metabolix/HackBGRT?tab=readme-ov-file#troubleshooting)_
+
+## Contact
+<p>
+    <a href="https://www.facebook.com/minhtri.nguyenngoc.3572" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="facebook logo"  />
+    </a>
+    <a href="https://www.youtube.com/@davidnguyen7897" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
+      </a>
+    <a href="mailto:bthong45@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/nguynngcminhtr7" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+    </a>
+    <a href="https://x.com/NguynNgcMinhTr7" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
+    </a>
+</p>
